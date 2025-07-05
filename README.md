@@ -1,6 +1,6 @@
 <h1 align="center">Korhan Kanar</h1>
 
-🔬 I'm a freelancer specializing in software tool development and data science for engineering. 
+🔬 I'm a freelancer specializing in simulation, software tool development and data science for engineering. 
 
 Here, I display some of my work on machine learning, optimization and system simulation. 
 
