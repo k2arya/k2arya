@@ -12,5 +12,6 @@ Table below shows a summary of my repositories. More to come...
 
 | Repository    | Domain | Tools Used |
 | :-------- | :------- | :------- |
+|  **Discrete-Event-Simulation---SimPy** | System Simulation | Python<br>SimPy    |
 |  **GeneticAlgorithms** | Optimization<br>Genetic Algorithms| Python<br>NumPy    |
 |  **System-Dynamics-Pattern-Recognizer**<br>*Hosted on Gitlab* | Machine Learning<br>Signal Classification<br>Hidden Markov Models  | Python<br>NumPy<br>Tkinter    |
